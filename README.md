@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a PhD Candidate in Health Economics at the Yale School of Public Health.  
+
+
+
 <!--
 **markowskijustin/markowskijustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
