@@ -2,10 +2,14 @@
 
 I'm a PhD Candidate in Health Economics at the Yale School of Public Health.  
 
-- 🔭 I study the health care safety net
+- 🔭 I'm currently working on a long-run evaluation of Federally Qualified Health Centers (FQHCs)
 - 🌱 I’m currently learning Bayesian approaches to modeling spatial data
 - 📫 How to reach me: markowskijustin@gmail.com
 - ⚡ Fun fact: I love baking, cooking, film and architecture
+
+I'm on the Job Market this year, looking for academic positions in public health, policy, or affairs! 
+
+My Job Market Paper is an evaluation of FQHCs
 
 
 
