@@ -17,6 +17,7 @@ I'm on the Job Market this year, looking for academic positions in public health
 ### Recent Work
 I led a study on the effects of health professional shortage area (HPSA) designations on the physician workforce, conducting the first national evaluation that studies this policy over the past 50 years. This manuscript – [now accepted for publication in Health Affairs]() – explores the efficacy over the policy’s lifespan, finding little evidence of any effect on resolving the physician shortage in underserved areas and no significant change in mortality.
 
+In another project, I study the role of Medicaid alternative payment models (APMs) on FQHCs, evaluating how explicit quality incentives and budgetary flexibility impacts clinic performance. To address this, I explore the extent to which desired and unintended consequences – such as patient selection or stinting on care – emerge. I find that APMs are successful in improving the performance of FQHCs, without inducing cream-skimming. Unlike their mixed impacts on the broader healthcare system, these results strongly demonstrate that APMs support safety net clinics by offering the budgetary flexibility and quality incentives they require to thrive. 
 
 
 <!--
