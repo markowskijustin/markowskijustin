@@ -10,7 +10,7 @@ I'm a PhD Candidate in Health Economics at the Yale School of Public Health. I h
 - ⚡ Fun fact: I love baking, cooking, film and architecture
 
 
-## Job Market
+#### Job Market
 I'm on the Job Market this year, looking for academic positions in public health, policy, or affairs! In my job market paper, I study the effects of competition on Federally Qualified Health Centers (FQHCs), a critical and growing part of the health care safety net.[Here is a PDF version of the latest working paper](https://github.com/markowskijustin/Competition/blob/main/documentation/Markowski%20Writing%20Sample%20Competition.pdf)
 
 
