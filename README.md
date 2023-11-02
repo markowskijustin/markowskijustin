@@ -7,7 +7,7 @@ I'm a PhD Candidate in Health Economics at the Yale School of Public Health. I s
 - 🔭 My current research is focused on studying and optimizing the organization and delivery of healthcare for traditionally underserved populations
 - 🌱 I’m currently learning Bayesian approaches to modeling spatial data
 - 📫 How to reach me: markowskijustin@gmail.com or justin.markowski@yale.edu
-- ⚡ Fun fact: I love baking, cooking, film and architecture
+- ⚡ Other Interests: I love baking, cooking, film and architecture
 
 
 ### Job Market
