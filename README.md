@@ -2,6 +2,11 @@
 
 I'm a PhD Candidate in Health Economics at the Yale School of Public Health.  
 
+- 🔭 I study the health care safety net
+- 🌱 I’m currently learning Bayesian approaches to modeling spatial data
+- 📫 How to reach me: markowskijustin@gmail.com
+- ⚡ Fun fact: I love baking, cooking, film and architecture
+
 
 
 <!--
