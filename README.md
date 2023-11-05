@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, my name's Justin 👋
 
 I'm a PhD Candidate in Health Economics at the Yale School of Public Health. I study the healthcare safety net, applying rigorous empirical methods to policy-relevant questions with the goal of improving health outcomes and reducing disparities.
 
