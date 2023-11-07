@@ -20,6 +20,9 @@ I led a study on the effects of health professional shortage area (HPSA) designa
 
 In another project, I study the role of Medicaid alternative payment models (APMs) on FQHCs, evaluating how explicit quality incentives and budgetary flexibility impacts clinic performance. To address this, I explore the extent to which desired and unintended consequences – such as patient selection or stinting on care – emerge. I find that APMs are successful in improving the performance of FQHCs, without inducing cream-skimming. Unlike their mixed impacts on the broader healthcare system, these results strongly demonstrate that APMs support safety net clinics by offering the budgetary flexibility and quality incentives they require to thrive. 
 
+### Data Sources
+
+Innovative, novel blah blah
 
 <!--
 **markowskijustin/markowskijustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
