@@ -22,7 +22,7 @@ In another project, I study the role of Medicaid alternative payment models (APM
 
 ### Data Sources
 
-Innovative, novel blah blah
+Notably, this work brings together a set of rich datasources, compiling and linking them across clinics and regions. 
 
 <!--
 **markowskijustin/markowskijustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
