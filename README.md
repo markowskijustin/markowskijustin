@@ -3,7 +3,7 @@
 I'm a PhD Candidate in Health Economics at the Yale School of Public Health. I study the healthcare safety net, applying rigorous empirical methods to policy-relevant questions with the goal of improving health outcomes and reducing disparities.
 
 
-A little bit about me:
+Here's a little bit about me:
 - 🔭 My current research is focused on studying and optimizing the organization and delivery of healthcare for traditionally underserved populations
 - 🌱 I’m currently learning Bayesian approaches to modeling spatial data
 - 💬 Ask me about the health care safety net, causal inference methods, and policy-applications of data science
@@ -22,7 +22,7 @@ In another project, I study the role of Medicaid alternative payment models (APM
 
 ## Data Sources
 
-Notably, this work brings together a set of rich datasources, compiling and linking them across clinics and regions. While often in-progress, there is a veritable trove of data here for use. Feel free to reach out with any questions and I will be more than happy to clarify!
+Notably, this work brings together a set of rich datasources which I have compiled here. While often in-progress, there is a veritable trove of data here for use. Feel free to reach out with any questions and I will be more than happy to clarify!
 
 Key pieces of data, by Repository: 
 - UDS: contains the entire 25 years of Uniform Data System.
