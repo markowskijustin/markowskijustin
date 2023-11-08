@@ -16,13 +16,20 @@ I'm on the job market this year, looking for academic positions in public health
 
 
 ### Recent Work
-I led a study on the effects of health professional shortage area (HPSA) designations on the physician workforce, conducting the first national evaluation that studies this policy over the past 50 years. This manuscript – [now accepted for publication in Health Affairs]() – explores the efficacy over the policy’s lifespan, finding little evidence of any effect on resolving the physician shortage in underserved areas and no significant change in mortality.
+I led a study on the effects of health professional shortage area (HPSA) designations on the physician workforce, conducting the first national evaluation that studies this policy over the past 50 years. This manuscript – [now accepted for publication in Health Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2023.00478) – explores the efficacy over the policy’s lifespan, finding little evidence of any effect on resolving the physician shortage in underserved areas and no significant change in mortality.
 
 In another project, I study the role of Medicaid alternative payment models (APMs) on FQHCs, evaluating how explicit quality incentives and budgetary flexibility impacts clinic performance. To address this, I explore the extent to which desired and unintended consequences – such as patient selection or stinting on care – emerge. I find that APMs are successful in improving the performance of FQHCs, without inducing cream-skimming. Unlike their mixed impacts on the broader healthcare system, these results strongly demonstrate that APMs support safety net clinics by offering the budgetary flexibility and quality incentives they require to thrive. 
 
 ### Data Sources
 
-Notably, this work brings together a set of rich datasources, compiling and linking them across clinics and regions. 
+Notably, this work brings together a set of rich datasources, compiling and linking them across clinics and regions. While often in-progress, there is a veritable trove of data here for use. Feel free to reach out with any questions and I will be more than happy to clarify!
+
+Key pieces of data, by Repository: 
+- UDS: contains the entire 25 years of Uniform Data System.
+- Data: contains the past 10+ years of IRS form 990 tax documents for FQHCs as well as a UDS-EIN crosswalk.
+- Allocation: contains geocoded FQHC care delivery locations over the past 25 years.
+- (work in progress) APMs: contains a state-by-state summary of Medicaid Alternative Payment Models for FQHCs.
+- (on the horizon) HPSA: a 50 year history of county-level mortality and Area Health Resource File data.
 
 <!--
 **markowskijustin/markowskijustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
