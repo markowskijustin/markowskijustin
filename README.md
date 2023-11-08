@@ -1,4 +1,4 @@
-## Hi there, my name's Justin 👋
+# Hi there, my name's Justin 👋
 
 I'm a PhD Candidate in Health Economics at the Yale School of Public Health. I study the healthcare safety net, applying rigorous empirical methods to policy-relevant questions with the goal of improving health outcomes and reducing disparities.
 
@@ -11,16 +11,16 @@ A little bit about me:
 - ⚡ Other Interests: I love baking, cooking, film and architecture
 
 
-### Job Market
+## Job Market
 I'm on the job market this year, looking for academic positions in public health, policy, or affairs! In my job market paper, I study the effects of competition on Federally Qualified Health Centers (FQHCs), a critical and growing part of the health care safety net. I find that FQHCs often respond like for-profit clinics, despite their safety net mandate and potentially to the detriment of their patients. [Here is a PDF version of the latest working paper](https://github.com/markowskijustin/Competition/blob/main/documentation/Markowski%20Writing%20Sample%20Competition.pdf) and you can find my working repository [here](https://github.com/markowskijustin/Competition).
 
 
-### Recent Work
+## Recent Work
 I led a study on the effects of health professional shortage area (HPSA) designations on the physician workforce, conducting the first national evaluation that studies this policy over the past 50 years. This manuscript – [now published in Health Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2023.00478) – explores the efficacy over the policy’s lifespan, finding little evidence of any effect on resolving the physician shortage in underserved areas and no significant change in mortality.
 
 In another project, I study the role of Medicaid alternative payment models (APMs) on FQHCs, evaluating how explicit quality incentives and budgetary flexibility impacts clinic performance. To address this, I explore the extent to which desired and unintended consequences – such as patient selection or stinting on care – emerge. I find that APMs are successful in improving the performance of FQHCs, without inducing cream-skimming. Unlike their mixed impacts on the broader healthcare system, these results strongly demonstrate that APMs support safety net clinics by offering the budgetary flexibility and quality incentives they require to thrive. 
 
-### Data Sources
+## Data Sources
 
 Notably, this work brings together a set of rich datasources, compiling and linking them across clinics and regions. While often in-progress, there is a veritable trove of data here for use. Feel free to reach out with any questions and I will be more than happy to clarify!
 
