@@ -24,7 +24,7 @@ In another project, I study the role of Medicaid alternative payment models (APM
 
 Notably, this work brings together a set of rich datasources which I have compiled here. While often in-progress, there is a veritable trove of data here for use. Feel free to reach out with any questions and I will be more than happy to clarify!
 
-### Key pieces of data, by Repository: 
+#### Data by Repository: 
 - *UDS*: contains the entire 25 years of Uniform Data System. Cleaned and compiled versions of these tables can be found in the APM repository.
 - *Data*: contains the past 10+ years of IRS form 990 tax documents for FQHCs as well as a UDS-EIN crosswalk.
 - *Allocation*: contains geocoded FQHC care delivery locations over the past 25 years.
