@@ -5,7 +5,7 @@ I'm a PhD Candidate in Health Economics at the Yale School of Public Health. I s
 
 Here's a little bit about me:
 - 🔭 My current research is focused on studying and optimizing the organization and delivery of healthcare for traditionally underserved populations
-- 🌱 I’m currently learning Bayesian approaches to modeling spatial data
+- 🌱 I’m currently learning Bayesian approaches to modeling spatial data and tree-based causal inference methods
 - 💬 Ask me about the health care safety net, causal inference methods, and policy-applications of data science
 - 📫 How to reach me: markowskijustin@gmail.com or justin.markowski@yale.edu
 - ⚡ Other Interests: I love baking, cooking, film and architecture
