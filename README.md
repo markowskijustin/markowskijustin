@@ -12,7 +12,7 @@ Here's a little bit about me:
 
 
 ## Job Market Paper
-In my job market paper, I study the effects of competition on Federally Qualified Health Centers (FQHCs), a critical and growing part of the health care safety net. I find that FQHCs often respond like for-profit clinics, despite their safety net mandate and potentially to the detriment of their patients. [Here is a PDF version of the latest working paper](https://github.com/markowskijustin/Competition/blob/main/documentation/Markowski%20Writing%20Sample%20Competition.pdf) and you can find my working repository [here](https://github.com/markowskijustin/Competition).
+In my job market paper, I study the effects of competition among Federally Qualified Health Centers (FQHCs), a critical and growing part of the health care safety net. I find that FQHCs often respond like for-profit clinics, despite their safety net mandate and potentially to the detriment of their patients. [Here is a PDF version of the latest working paper](https://github.com/markowskijustin/Competition/blob/main/documentation/Markowski%20Writing%20Sample%20Competition.pdf) and you can find my working repository [here](https://github.com/markowskijustin/Competition).
 
 
 ## Recent Work
