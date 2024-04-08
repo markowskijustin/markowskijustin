@@ -1,6 +1,6 @@
 # Hi there, my name's Justin 👋
 
-I'm an incoming Assistant Professor in the Division of Health Policy and Administration of the University of Illinois Chicago School of Public Health. I study the healthcare safety net, applying rigorous empirical methods to policy-relevant questions with the goal of improving health outcomes and reducing disparities.
+I'm an incoming tenure-track Assistant Professor in the Division of Health Policy and Administration of the University of Illinois Chicago School of Public Health. I study the healthcare safety net, applying rigorous empirical methods to policy-relevant questions with the goal of improving health outcomes and reducing disparities.
 
 
 Here's a little bit about me:
