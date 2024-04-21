@@ -1,6 +1,6 @@
 # Hi there, my name's Justin 👋
 
-I'm an incoming tenure-track Assistant Professor in the Division of Health Policy and Administration of the University of Illinois Chicago (UIC) School of Public Health. I am also the director of the Healthcare SHIELD (Safety net Hub for Innovation, Exploration, and Local Development), where we study the performance, functioning, and stability of the healthcare safety net and the multidimensional impacts on the communities served. Our goal is to help build healthier communities and reduce the burden of disparities by answering critical policy- and practice-relevant questions through rigorous empirical research. 
+I'm an incoming tenure-track Assistant Professor in the Division of Health Policy and Administration of the University of Illinois Chicago (UIC) School of Public Health. I am also the director of the \bf{Healthcare SHIELD (Safety net Hub for Innovation, Exploration, and Local Development)}, where we study the performance, functioning, and stability of the healthcare safety net and the multidimensional impacts on the communities served. Our goal is to help build healthier communities and reduce the burden of disparities by answering critical policy- and practice-relevant questions through rigorous empirical research. 
 
 Here's a little bit about me:
 - 🔭 My current research is focused on optimizing the delivery of healthcare for traditionally underserved populations
