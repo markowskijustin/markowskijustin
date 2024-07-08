@@ -5,10 +5,10 @@ I'm an incoming tenure-track Assistant Professor in the Division of Health Polic
 I am also the director of the **Healthcare SHIELD (Safety net Hub for Innovation, Exploration, and Local Development)**, where we study the performance, functioning, and stability of the healthcare safety net and the multidimensional impacts on the communities served. *Our mission is to build a better SHIELD for traditionally underserved communities through a stronger, more resilient and higher quality safety net*. Our vision is to protect and improve the health of underserved communities and reduce the burden of disparities by answering critical policy- and practice-relevant questions through rigorous empirical research. 
 
 Here's a little bit more about me:
-- 🔭 My current research is focused on optimizing the delivery of healthcare for traditionally underserved populations
+- 🔭 My research is focused on optimizing the delivery of healthcare for traditionally underserved populations
 - 🌱 I’m currently learning Bayesian approaches to modeling spatial data and tree-based causal inference methods
 - 💬 Ask me about the health care safety net, causal inference methods, and policy-applications of data science
-- 📫 How to reach me: markowskijustin@gmail.com or justin.markowski@yale.edu
+- 📫 How to reach me: markowskijustin@gmail.com or markow@uic.edu
 - ⚡ Other Interests: I love baking, cooking, film and architecture
 
 
