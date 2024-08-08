@@ -8,7 +8,7 @@ Here's a little bit more about me:
 - 🔭 My research is focused on optimizing the delivery of healthcare for traditionally underserved populations
 - 🌱 I’m currently learning Bayesian approaches to modeling spatial data and tree-based causal inference methods
 - 💬 Ask me about the health care safety net, causal inference methods, and policy-applications of data science
-- 📫 How to reach me: markowskijustin@gmail.com or markow@uic.edu
+- 📫 How to reach me: markow@uic.edu or markowskijustin@gmail.com
 - ⚡ Other Interests: I love baking, cooking, film and architecture
 
 
